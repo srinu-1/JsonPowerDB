@@ -1,8 +1,9 @@
                            Title of the Project:
+			   Small project to perform web application form to create a operation.
  WebApplicationForm and also performing CRUD Operations
 
  			     Description:
-  WebApplication form project using vscode and JsonPowerDB
+  WebApplication form project using NetBeans and JsonPowerDB
 
 			     About JsonPowerDB:
 1) JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Rest API based Multi-mode DBMS. 
