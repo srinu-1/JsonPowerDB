@@ -1,5 +1,5 @@
-                             Title of the Project:
- <<WebApplicationForm and also perform CRUD Operations>>
+                           Title of the Project:
+ WebApplicationForm and also perform CRUD Operations
 
  			     Description:
   WebApplication form project using vscode and JsonPowerDB
@@ -15,7 +15,7 @@
 2)	It is low level (raw) form of data and is also human readable.
 3)	Simplest way to retrieve data in a JSON format.
 4)	Schema-free, Simple to use, Nimble and In-Memory database.
-5)  Nimble, simple to use, in memory, real time
+5)      Nimble, simple to use, in memory, real time
 6)	Schema free - easy to maintain
 7)	Serverless support - fast development - cuts time to market
 8)	Built around the world's fastest indexing engine PowerIndex
@@ -27,4 +27,5 @@
 		           
                              Release History
   1)Initial Release.
+
 
