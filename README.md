@@ -1,5 +1,5 @@
                            Title of the Project:
-			   Small project to perform web application form to create a operation.
+			    web application form project.
  WebApplicationForm and also performing CRUD Operations
 
  			     Description:
