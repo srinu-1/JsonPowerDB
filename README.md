@@ -4,7 +4,7 @@
  			     Description:
   WebApplication form project using vscode and JsonPowerDB
 
-			     About JsonPowerDB:**
+			     About JsonPowerDB:
 1) JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Rest API based Multi-mode DBMS. 
 2) JsonPowerDB has ready to use API for Json document DB, RDBMS, Key-value DB, GeoSpatial DB and Time Series DB functionality. 
 3) JPDB supports and advocates for true serverless and pluggable API development.
